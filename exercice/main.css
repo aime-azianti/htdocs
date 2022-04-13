@@ -1,0 +1,38 @@
+.site{
+    width: 50%;
+    margin: 0 auto; }
+    .header{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+     .push{
+         padding-top: 20px;
+     }  
+       .s1, .s2, .s3, .s4, .s5, .s6{
+           display: flex;
+           justify-content: space-between;
+       }
+       .ps1, .ps2, .ps3, .ps4, .ps5, .ps6{
+           padding-top: 20px;
+       }
+       body{
+           background-color:  rgb(3, 3, 27);
+           color: white;
+           font-family: 'Open Sans', sans-serif;
+       }
+       .link{
+           text-decoration: none;
+           color: rgb(228, 187, 187);
+           padding: 0 10px;
+       }
+       .lin{
+        text-decoration: none;
+        color: white; 
+       }
+       .header>h3{
+           color: yellow;
+       }
+       .footer{
+           border-top: 1px solid white;
+       }
